@@ -1,0 +1,23 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
