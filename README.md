@@ -1,4 +1,4 @@
-# Daily News Email Bot 📰✉️
+# Daily News Email 📰✉️
 
 This Python project fetches the latest news articles based on a keyword using the NewsAPI and sends a daily summary email using Gmail's SMTP server.
 
