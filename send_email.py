@@ -9,7 +9,7 @@ def send_email(message):
 
     # Your Gmail credentials
     username = "pedro.h.li.edu@gmail.com"
-    password = "grdnlgeipeedyrox"
+    password = "YOUR GMAIL APP PASSWORD"
 
     # Email recipient
     receiver = "pedro.h.li.edu@gmail.com"
